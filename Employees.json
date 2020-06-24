@@ -1,0 +1,19 @@
+[{
+  "_id": 1,
+  "Full name": "Алексеев Максим Витальевич",
+  "Position": "Junior QA Engineer/Tester",
+  "Phone": "+37529-154-23-05",
+  "Address": "Якубовского 40"
+},{
+  "_id": 2,
+  "Full name": "Иванов Матвей Анатольевич",
+  "Position": "Middle QA Engineer/Tester",
+  "Phone": "+37544-564-34-65",
+  "Address": "Пушкина 26"
+},{
+  "_id": 3,
+  "Full name": "Пиров Артем Исламович",
+  "Position": "Senior QA Engineer/Tester",
+  "Phone": "+37525-345-76-34",
+  "Address": "Встречная 42а"
+}]
